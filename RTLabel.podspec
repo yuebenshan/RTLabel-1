@@ -18,11 +18,11 @@ s.homepage         = "https://github.com/zhangfeng669/RTLabel"
 
 s.license          = 'MIT'
 
-s.author           = { "王中周" => "wzzvictory_tjsd@163.com" }
+s.author           = { “张峰” => “371548366@qq.com" }
 
 s.source           = { :git => "https://github.com/zhangfeng669/RTLabel.git", :tag => s.version.to_s }
 
-# s.social_media_url = 'https://twitter.com/NAME'
+# s.social_media_url = 'https://twitter.com/zhangfeng669'
 
  
 
